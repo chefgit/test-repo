@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("Just one more commit");
 		
 		System.out.println("final change for today");
+		
+		System.out.println("ok");
 	}
 
 }
